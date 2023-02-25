@@ -1,0 +1,19 @@
+{
+  "name": "dataviz-playground",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "@lume/three-meshline": "^4.0.5",
+    "lil-gui": "^0.17.0",
+    "three": "^0.148.0",
+    "three.meshline": "^1.4.0"
+  }
+}
